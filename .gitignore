@@ -29,3 +29,8 @@ go.work.sum
 storybook-server/
 
 tailwindcss
+
+# Local Development
+.vscode/settings.json
+flake.nix
+flake.lock
